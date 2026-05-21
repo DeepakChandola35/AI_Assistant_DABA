@@ -1,3 +1,4 @@
+# // single face authentication code 
 # import face_recognition
 # import cv2
 # import pickle
@@ -94,7 +95,7 @@
 #         print("Error in face auth:", e)
 #         return False
 
-
+# multi face authentication code 
 import face_recognition
 import cv2
 import pickle
