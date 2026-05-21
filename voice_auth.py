@@ -6,7 +6,7 @@ import numpy as np
 encoder = VoiceEncoder()
 
 # Load owner's voice sample
-owner_wav = preprocess_wav(Path("owner_voice.wav"))
+owner_wav = preprocess_wav(Path("your own audio wav file"))
 owner_embedding = encoder.embed_utterance(owner_wav)
 
 def verify_speaker(audio_file):
