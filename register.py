@@ -1,3 +1,4 @@
+# single face authentication
 # import face_recognition
 # import cv2
 # import pickle
@@ -36,7 +37,7 @@
 
 
 
-
+# multi face authentication register
 import face_recognition
 import cv2
 import pickle
