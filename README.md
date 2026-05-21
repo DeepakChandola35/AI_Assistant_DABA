@@ -356,9 +356,8 @@ This project is developed for educational and research purposes.
 will be shared soon !!!
 ---
 
-# 📷 Demo
+# 📷 Demo and Screenshots
 
-Add screenshots or demo videos here.
 
 Example:
 <img width="719" height="1600" alt="WhatsApp Image 2026-05-22 at 12 57 42 AM" src="https://github.com/user-attachments/assets/375fe184-2504-456f-902e-8471423c8430" />
