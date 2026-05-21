@@ -27,7 +27,7 @@ from scan_open import scan_files, search_file, open_file, close_file
 
 # from voice_auth import verify_speaker
 # GEMINI API KEY
-os.environ["GEMINI_API_KEY"] = "AIzaSyCm-VtaM7D0pg4kVGGYciiL3j2esNJM6b4"
+os.environ["GEMINI_API_KEY"] = "Enter_your_key"
 # Setup logging with UTF-8 encoding to handle emojis
 logging.basicConfig(
     level=logging.INFO,
