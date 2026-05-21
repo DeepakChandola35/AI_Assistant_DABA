@@ -350,15 +350,24 @@ This project is developed for educational and research purposes.
 - Python Community
 
 ---
+---
+
+#  Harware_Code
+will be shared soon !!!
+---
 
 # 📷 Demo
 
 Add screenshots or demo videos here.
 
 Example:
+<img width="719" height="1600" alt="WhatsApp Image 2026-05-22 at 12 57 42 AM" src="https://github.com/user-attachments/assets/375fe184-2504-456f-902e-8471423c8430" />
 
-```markdown
-//soon will be added
-```
+https://github.com/user-attachments/assets/0d2cb48d-2f89-48ce-8d01-1a3da9f77a48
 
----
+
+<img width="963" height="1280" alt="WhatsApp Image 2026-05-11 at 12 21 24 PM" src="https://github.com/user-attachments/assets/ca2ba901-153b-49c8-9659-f9d09cb2729b" />
+<img width="963" height="1280" alt="WhatsApp Image 2026-05-11 at 12 19 37 PM" src="https://github.com/user-attachments/assets/7e2c8a93-2b1c-4470-bb31-a42df12a179f" />
+<img width="719" height="1600" alt="WhatsApp Image 2026-05-11 at 12 18 12 PM" src="https://github.com/user-attachments/assets/fc82ac74-fcba-4dd2-93ad-2c90b12d5f1b" />
+<img width="960" height="1280" alt="WhatsApp Image 2026-05-11 at 12 14 13 PM" src="https://github.com/user-attachments/assets/d413f3df-5cca-4514-90c9-0c104758392d" />
+
