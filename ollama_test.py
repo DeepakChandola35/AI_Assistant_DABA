@@ -8,7 +8,7 @@ def test_ollama():
     try:
         print("🚀 Testing Ollama...\n")
 
-        # ✅ Non-interactive call (IMPORTANT FIX)
+        # Non-interactive call (IMPORTANT FIX)
         result = subprocess.run(
             [
                 OLLAMA_PATH,
@@ -29,7 +29,7 @@ def test_ollama():
         print("\n⚠️ STDERR (Errors):")
         print(result.stderr.strip() if result.stderr else "NONE")
 
-        # ✅ Final check
+        # Final check
         if result.returncode == 0 and result.stdout.strip():
             print("\n✅ SUCCESS: Ollama is WORKING perfectly!")
         else:
