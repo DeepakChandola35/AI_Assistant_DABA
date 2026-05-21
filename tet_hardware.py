@@ -385,54 +385,7 @@ def handle_emotion(emotion: str):
 
 '''-----Speech-to-Text (STT) with MICROPHONE BOOST-----'''
 
-# def record_auth_voice():
-#     """Record short voice sample for authentication"""
-#
-#     duration = 3
-#     sample_rate = 16000
-#
-#     audio = sd.rec(
-#         int(duration * sample_rate),
-#         samplerate=sample_rate,
-#         channels=1
-#     )
-#
-#     sd.wait()
-#
-#     sf.write("temp_voice.wav", audio, sample_rate)
 
-# def on_realtime_transcription(text: str):
-#     """Callback for realtime transcription updates"""
-#     if not text.strip():
-#         return
-#
-#     # Always show what's being heard
-#     logger.info(f"🎤 Hearing (realtime): {text}")
-#
-#     # Check for wake word if assistant is asleep
-#     if not state.is_awake:
-#         if check_for_wake_word(text):
-#
-#             logger.info("🔐 Verifying speaker...")
-#
-#             record_auth_voice()
-#
-#             authorized = verify_speaker("temp_voice.wav")
-#
-#             if not authorized:
-#                 logger.info("❌ Unauthorized voice detected")
-#                 return
-#
-#             logger.info("✅ Authorized user detected")
-#
-#             state.wake_up()
-#             play_acknowledgment_sound()
-
-            # # remove temp file
-            # try:
-            #     os.remove("temp_voice.wav")
-            # except:
-            #     pass
 def on_realtime_transcription(text: str):
 
     if not text.strip():
